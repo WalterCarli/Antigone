@@ -1,2 +1,2 @@
 # Antigone
-Lavoro su la tragedia "Antigone" di Sofocle
+Lavoro sulla tragedia "Antigone" di Sofocle
